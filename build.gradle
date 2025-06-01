@@ -6,6 +6,7 @@ plugins {
 
 group = "eu.decentsoftware.holograms"
 version = "2.8.17"
+version += "-MercurioMC"
 description = "A lightweight yet very powerful hologram plugin with many features and configuration options."
 
 repositories {
